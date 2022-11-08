@@ -31,6 +31,4 @@ tensorboard --logdir=logs --port=6007 --host=sh03-14n13
 ```
 
 ## Finetune procedure
-In the paper, we finetuned `dP_LGR1`, `dP_LGR4`, `SG_LGR1`, `SG_LGR1` models with a random instance of pre-generated error
-- step 1: save loss with `.ipynb`
-- step 2: finetune with `.py`
+In the paper, we finetuned `dP_LGR1`, `dP_LGR4`, `SG_LGR1`, `SG_LGR1` models with a random instance of pre-generated error. Use `finetune_FNO4D_DP_LGR.ipynb` as an example.
