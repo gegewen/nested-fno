@@ -1,0 +1,5 @@
+__pycache__/
+
+ECLIPSE/meta_data/*.npy
+*.pt
+logs/*
