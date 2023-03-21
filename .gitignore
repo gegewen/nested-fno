@@ -4,5 +4,7 @@ ECLIPSE/meta_data/*.npy
 *.pt
 logs/*
 .ipynb_checkpoints
-*.ipynb
+eval_sequential_prediction_dp_custom_var.ipynb
+eval_sequential_prediction_sg_custom_var.ipynb
 vonk3d.py
+eval_sequential_prediction_dp_backup.ipynb
