@@ -4,3 +4,5 @@ ECLIPSE/meta_data/*.npy
 *.pt
 logs/*
 .ipynb_checkpoints
+*.ipynb
+vonk3d.py
