@@ -1,5 +1,5 @@
 ## Make dataloader
-- step 1: download meta data from google drive and put them into `Nested_FNO/ECLIPSE/meta_data`
+- step 1: download meta data from [google drive](https://drive.google.com/drive/u/1/folders/1gElIBiZW6NayuEWxgDn8cv94_4e_LF4-) and put them into `Nested_FNO/ECLIPSE/meta_data`
 - step 2: run following code to convert `.npy` file into `.pt` files in `dataset` folder
 ```
 cd data_config
