@@ -23,7 +23,7 @@ python3 train_FNO4D_SG_LGR.py LGR4
 ```
 - step 2: monitor training and validation loss with tensorboard
 ```
-tensorboard --logdir=logs --port=6007 --host=sh03-14n13
+tensorboard --logdir=logs --port=6007 --host=xxxxxx
 ```
 
 ## Finetune procedure
